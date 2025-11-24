@@ -1,0 +1,21 @@
+echo "
+# STS / Eclipse metadata
+.metadata/
+.project
+.classpath
+.settings/
+.sonarlint/
+
+# Maven build
+target/
+
+# Node modules (later)
+node_modules/
+
+# Log files
+*.log
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+" > .gitignore
