@@ -20,5 +20,5 @@ spring:
 
 jwt:
   secret: very_secret_key_here_change_later
-  expiration: 86400000  # 24 hours in ms
+  expiration: 86400000  # 24 hours in msq
 
